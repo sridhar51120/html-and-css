@@ -1,0 +1,8 @@
+#rad-grid{
+    height: 500px;
+    background-image: radial-gradient(blue 10%,green 90%);
+}
+
+p{
+    color: red;
+}

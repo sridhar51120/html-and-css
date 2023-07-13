@@ -1,0 +1,22 @@
+p{
+    background-color: antiquewhite;
+}
+#grid{
+    height: 500px;
+    background-image: linear-gradient(red,green);
+}
+
+#grid2{
+    height: 500px;
+    background-image: linear-gradient(to right,red,green);
+}
+
+#grid3{
+    height: 500px;
+    background-image: linear-gradient(to bottom left,green,yellow);
+}
+
+#grid4{
+    height: 500px;
+    background-image: linear-gradient(180deg,green,red);
+}
